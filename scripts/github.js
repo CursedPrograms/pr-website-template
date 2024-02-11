@@ -1,1 +1,1 @@
-const apiUrl = 'https://github.com/CursedPrograms/pr-website-template';
+const apiUrl = 'https://api.github.com/repos/CursedPrograms/pr-website-template/languages';
